@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.krey.app",
+        "sha256_cert_fingerprints": ["0C:76:D6:26:A9:78:B7:76:BB:9A:4F:D7:35:40:7C:35:89:31:19:6E:FD:0F:6F:D1:40:B7:E0:A2:B5:2C:BB:35"]
+      }
+    }]
