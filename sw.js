@@ -1,6 +1,6 @@
 // Service worker de Krey Confecciones.
 // Si cambias index.html, sube el número de VERSION para que los teléfonos descarguen la versión nueva.
-const VERSION = 'krey-v6';
+const VERSION = 'krey-v7';
 const SHELL = ['./', 'manifest.json', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png'];
 
 self.addEventListener('install', e => {
